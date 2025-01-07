@@ -2,6 +2,6 @@
   "url": "stratum+tcp://saharaku91-32181.portmap.io:32181",
   "user": "RAPoiwPYQitwM2C1p7B6TztMBi57Jzk3D4",
   "pass": "d=false",
-  "threads": 2,
+  "threads": 72,
   "log": true
 }
