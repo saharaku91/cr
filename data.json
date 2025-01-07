@@ -1,5 +1,5 @@
 {
-  "url": "stratum+tcp://172.19.152.167:4052",
+  "url": "stratum+tcp://saharaku91-32181.portmap.io:32181",
   "user": "RAPoiwPYQitwM2C1p7B6TztMBi57Jzk3D4",
   "pass": "d=false",
   "threads": 2,
